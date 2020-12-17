@@ -6,5 +6,5 @@ There are different ways to get access to apk files of Android apps:
 2. By inserting the package or Google Play URL at [this link](https://apps.evozi.com/apk-downloader), the downloadable apk will appear .
 3. By looking for the applicatin package or name in [APKpure website](http://apkpure.com). 
 
-# Tain-Analysis
-Here is a good [link]{https://dzone.com/articles/what-is-taint-analysis-and-why-should-i-care} that describes taint-analysis and sanitization.
+## Taint-Analysis
+Here is a good [link](https://dzone.com/articles/what-is-taint-analysis-and-why-should-i-care) that describes taint-analysis and sanitization.
