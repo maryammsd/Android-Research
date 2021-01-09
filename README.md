@@ -1,5 +1,7 @@
 # Android-Analysis
-In this repository, I am going to share the interesting research studies, tools, etc. related to Information flow analysis in Android applications. 
+In this repository, I am going to share the interesting research studies, tools, etc. related to Information flow analysis in Android applications.
+## How to search within Android Source code repository?
+Here is a [search engine](https://cs.android.com/) that one can search for codes within android source code repo.
 ## How to retrieve Android application apk files?
 There are different ways to get access to apk files of Android apps:
 1. By using an API availabale at this [github repository](https://github.com/egirault/googleplay-api) .
