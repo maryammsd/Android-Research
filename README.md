@@ -8,5 +8,11 @@ There are different ways to get access to apk files of Android apps:
 2. By inserting the package or Google Play URL at [this link](https://apps.evozi.com/apk-downloader), the downloadable apk will appear .
 3. By looking for the applicatin package or name in [APKpure website](http://apkpure.com). 
 
-## Taint-Analysis
+##Information leakage in Android 
+### Information Flow
+
+### Taint-Analysis
 Here is a good [link](https://dzone.com/articles/what-is-taint-analysis-and-why-should-i-care) that describes taint-analysis and sanitization.
+
+###Side Channels in Android
+1. It is possible to infer what is a user typing by listening to the audio made when he/she is typing on the keyboard according to a [study](https://techxplore.com/news/2019-06-smartphone-finger-side-channel.html).
