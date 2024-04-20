@@ -7,7 +7,12 @@ There are different ways to get access to apk files of Android apps:
 1. By using an API available at this [github repository](https://github.com/egirault/googleplay-api).
 2. By inserting the package or Google Play URL at [this link](https://apps.evozi.com/apk-downloader), the downloadable apk will appear.
 3. By looking for the application package or name on [APKpure website](http://apkpure.com). 
-
+### Interesting Open-source Android app list
+[Awesome apps](https://github.com/timschneeb/awesome-shizuku?tab=readme-ov-file#audio)
+[Open source Android apps](https://github.com/pcqpcq/open-source-android-apps/tree/master)
+[Amazing Android apps](https://github.com/Mybridge/amazing-android-apps?tab=readme-ov-file)
+[HackDroid](https://github.com/thehackingsage/hackdroid?tab=readme-ov-file)
+[Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 ##Information leakage in Android 
 ### Android API Levels
 [Android API Levels and their popularity distribution](https://apilevels.com/)
